@@ -1,0 +1,3 @@
+* Similar to arrays, string problems often have simple brute-force solutions that use O(n) space solution, but subtler solutions that use the string itself to reduce space complexity to O(1)
+* Understand the implications of a string type which is immutable, e.g. the need to allocate a new string when concatenating immutable strings. Know alterantices to immutable strings (list in Python)
+* Updating a mutable string from front to back is slow, so see if it's possible to write values from the back
