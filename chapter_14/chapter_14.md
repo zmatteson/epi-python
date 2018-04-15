@@ -15,4 +15,5 @@ Binary search trees
 
 BST Libraries
 =============
-
+* no built in module, but sortedcontainers is recommended (but the time complexity for inserts and deletes is O(sqrt(n)))
+* 
